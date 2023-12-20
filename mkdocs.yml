@@ -12,10 +12,23 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
+
   palette:
-    - scheme: slate
-      primary: #5bbadb
-      accent: white
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      primary: custom
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: default
+      primary: custom
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -32,3 +45,6 @@ markdown_extensions:
   - attr_list
 
 copyright: "&copy; 2023 <a href='https://argos-sci.com/' target='_blank' rel='noopener'>Argos Scientific, Inc.</a>"
+
+extra_css:
+  - stylesheets/extra.css
