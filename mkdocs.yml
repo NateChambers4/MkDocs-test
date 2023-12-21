@@ -1,6 +1,8 @@
 site_name: Argos Sci Docs
 theme:
   name: material
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -17,7 +19,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: slate
-      primary: custom
+      primary: black
+      accent: custom
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
@@ -25,11 +28,12 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: default
-      primary: custom
+      primary: black
+      accent: custom
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-
+      
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -43,6 +47,14 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+
+nav:
+  - Index:
+    - Welcome: index.md
+  - PMS7003:
+    - Sensor Connection Guide: pms7003/PMS7003.md
+    - Running the Script: pms7003/Running the Script.md
+    - Understanding the Data: pms7003/Understanding the Data.md
 
 copyright: "&copy; 2023 <a href='https://argos-sci.com/' target='_blank' rel='noopener'>Argos Scientific, Inc.</a>"
 
