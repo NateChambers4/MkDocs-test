@@ -51,6 +51,8 @@ markdown_extensions:
 nav:
   - Index:
     - Welcome: index.md
+    - Creating Documentation: index/Creating Documentation.md
+    
   - PMS7003:
     - Sensor Connection Guide: pms7003/PMS7003.md
     - Running the Script: pms7003/Running the Script.md
