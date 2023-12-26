@@ -16,11 +16,18 @@
 
     ```md
     nav:
-      - Index:
-        - Welcome: index.md
-      - Project Title (e.g., PMS7003):
-        - Section Title (e.g., Sensor Connection Guide): folder_name/file_name.md
-        - Another Section Title: folder_name/another_file.md
+  - Index:
+    - Welcome: index.md
+    - Creating Documentation: index/Creating Documentation.md
+    
+  - PMS7003:
+    - Sensor Connection Guide: pms7003/PMS7003.md
+    - Running the Script: pms7003/Running the Script.md
+    - Understanding the Data: pms7003/Understanding the Data.md
+
+  - Your Project Title:
+    - Page 1 Title: projectFolderName/page1.md
+    - Page 2 Title: projectFolderName/page2.md
     ```
 
     Each project should have its own folder. Name each Markdown file to clearly reflect its content.
