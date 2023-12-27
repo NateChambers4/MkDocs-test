@@ -58,9 +58,8 @@ nav:
     - Understanding the Data: pms7003/Understanding the Data.md
 
   - SOP Generaton:
-    - Creating SOP Documents: SOP Generaton/Steps.md
+    - Creating SOP Documents: SOP Generaton/SOP GPT.md
     - Outline Questions: SOP Generaton/Outline Questions.md
-    - Example: SOP Generaton/Example.md
 
 copyright: "&copy; 2023 <a href='https://argos-sci.com/' target='_blank' rel='noopener'>Argos Scientific, Inc.</a>"
 
