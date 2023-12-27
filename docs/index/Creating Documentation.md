@@ -4,7 +4,7 @@
 
 1. **Create Individual Markdown Files**: For each aspect of your project, create a separate Markdown file. This includes an overview, getting started guides, etc.
 
-2. **ChatGPT Usage Caution**: Do not use ChatGPT for creating Markdown files with sensitive content. Use it only for public, non-sensitive information.
+2. **ChatGPT Usage Caution**: Do not use ChatGPT for creating Markdown files with sensitive content. Use it only for public, non-sensitive information. Using ChatGPT may be permitted if chat history is turned off. Go to Settings, Data Controls, Chat History and Training. Turn this setting off. (You must start a new chat)
 
 3. **Markdown Syntax Reference**: Learn Markdown syntax from [Markdown Guide](https://www.markdownguide.org/basic-syntax/). For a visual preview, use [Dillinger](https://dillinger.io/).
 
