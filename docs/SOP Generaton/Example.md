@@ -71,48 +71,48 @@ Review and update the SOP annually or as needed, recording all changes with upda
 
 # BrewMaster 3000 SOP Responses
 
-1. **Title Page Information**:
+1\. **Title Page Information**:
    - Title: "Standard Operating Procedure for BrewMaster 3000"
    - Reference Number: SOP-BM3000-01
    - Version: 1.0
 
-2. **Scope and Applicability**:
+2\. **Scope and Applicability**:
    - This SOP covers the operation, maintenance, and safety procedures for the BrewMaster 3000, a state-of-the-art brewing system designed for crafting artisanal beers. It is applicable for use in commercial breweries and advanced home-brewing setups.
 
-3. **Method Summary (Technical SOPs)**:
+3\. **Method Summary (Technical SOPs)**:
    - The BrewMaster 3000 uses a semi-automated brewing process, integrating temperature control, ingredient mixing, fermentation monitoring, and sanitation protocols to produce high-quality beer.
 
-4. **Definitions**:
+4\. **Definitions**:
    - Wort: The liquid extracted from the mashing process during brewing.
    - Sparging: The process of rinsing the milled grains to extract sugars.
 
-5. **Health & Safety Warnings**:
+5\. **Health & Safety Warnings**:
    - Warning against exposure to high temperatures and steam.
    - Precautions for handling brewing ingredients, especially hops and grains, to avoid allergic reactions.
 
-6. **Personnel Qualifications/Responsibilities**:
+6\. **Personnel Qualifications/Responsibilities**:
    - Operators must have basic knowledge of brewing and safety training. Responsibilities include ingredient preparation, system operation, and routine maintenance.
 
-7. **Equipment and Supplies**:
+7\. **Equipment and Supplies**:
    - The BrewMaster 3000 system, fermentation tanks, grain mill, various types of hops and grains, yeast, water filtration system, cleaning agents.
 
-8. **Detailed Procedure Steps (Technical SOPs)**:
+8\. **Detailed Procedure Steps (Technical SOPs)**:
    - Step-by-step guide from ingredient preparation, mashing, sparging, boiling, fermentation, to final product storage.
 
-9. **Data and Records Management**:
+9\. **Data and Records Management**:
    - Detailed logs of each brewing session, including ingredient batches, temperature profiles, and quality control results.
 
-10. **Quality Assurance/Quality Control**:
+10\. **Quality Assurance/Quality Control**:
     - Routine calibration of temperature sensors, periodic system sanitation, and quality checks of the final product.
 
-11. **References**:
+11\. **References**:
     - "The Brewer's Handbook" by Ted Goldammer, "Understanding Brewing Science" by Dr. Michael Mosher.
 
-12. **Procedure Summary (Administrative SOPs)**:
+12\. **Procedure Summary (Administrative SOPs)**:
     - Overview of administrative procedures for ordering supplies, scheduling brewing sessions, and managing inventory.
 
-13. **Criteria or Checklists (Administrative SOPs)**:
+13\. **Criteria or Checklists (Administrative SOPs)**:
     - Checklists for supply ordering, pre-brewing equipment checks, and post-brewing cleanup.
 
-14. **Version Control and Update Procedures**:
+14\. **Version Control and Update Procedures**:
     - The SOP will be reviewed annually or upon significant changes to the BrewMaster 3000. Updates will be recorded with new version numbers and dates.
