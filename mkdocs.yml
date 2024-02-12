@@ -60,6 +60,9 @@ nav:
   - SOP Generaton:
     - Creating SOP Documents: SOP Generaton/SOP GPT.md
     - Outline Questions: SOP Generaton/Outline Questions.md
+  
+  - Argos Email Parser:
+    - How to Use: Argos Email Parser/How to Use.md
 
 copyright: "&copy; 2023 <a href='https://argos-sci.com/' target='_blank' rel='noopener'>Argos Scientific, Inc.</a>"
 
