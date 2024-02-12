@@ -31,3 +31,6 @@ Here are some examples of what Argos Email Parser has created:
 - [Fenceline Test Excel File](fencelinetest_V25.xlsx)
 - [Eco1deb Test Excel File](eco1debtest_V25.xlsx)
 - [Python Script](code.py)
+
+Example document for testing:
+[testexport.csv](testexport.CSV)
